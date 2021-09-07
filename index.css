@@ -1,0 +1,17 @@
+form{
+    background-color: rgb(177, 226, 43);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    border: chartreuse solid 6px;
+    border-radius: 150px;
+    height: 40px;
+    width: 200px;
+
+}
+</style>
